@@ -23,7 +23,6 @@ print_second:
 
 print_third:
   stage: third
-
   only:
     - develop
   tags:
